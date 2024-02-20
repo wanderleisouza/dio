@@ -9,13 +9,13 @@ docker compose -p dio up
 
 ## Generate fake client files
 ```shell
-time make create-abc-client-files
+make create-abc-client-files
 ```
 ```shell
-time make create-def-client-files
+make create-def-client-files
 ```
 ```shell
-time make create-ghi-client-files
+make create-ghi-client-files
 ```
 ## Start the demos
 ```shell
